@@ -10,7 +10,7 @@ With Spalla Finance, members can:
 - **invest** in products offered by Spalla Limited;
 - pay in and withdraw with **M-Pesa**, from the web or an app installed on their phone.
 
-Our code is private. This page is where the people who build Spalla Finance work together.
+ This is where the people who build Spalla Finance work together.
 
 **Website:** [spallafinance.com](https://spallafinance.com)
 **Contact:** [info@spallafinance.com](mailto:info@spallafinance.com)
